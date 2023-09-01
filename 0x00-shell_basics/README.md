@@ -6,3 +6,4 @@
 5. ls -an: Display current directory contents
 6. mkdir /tmp/my_first_directory/: Create a script that creates a directory named my_first_directory in the /tmp/ directory
 7. mv /tmp/betty /tmp/my_first_directory: Move the file betty from /tmp/ to /tmp/my_first_directory
+8. rm -r /tmp/my_first_directory/betty: delete the file betty in /tmp/my_first_directory
