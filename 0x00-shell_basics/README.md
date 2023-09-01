@@ -17,3 +17,4 @@
 16. rm *~ : Deletes all files in the current working directory that end with the character ~
 17. mkdir -p welcome/to/school: Creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory
 18. ls -map: Write a command that lists all the files and directories of the current directory, separated by commas (,).
+19.   Create a magic file school.mgc that can be used with the command file to detect School data files
