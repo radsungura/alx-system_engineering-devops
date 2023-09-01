@@ -4,4 +4,5 @@
 3. ls -l: Display current directory contents in a long format
 4. ls -la: Display current directory contents, including hidden files (starting with .). Use the long format
 5. ls -an: Display current directory contents
-5. mkdir /tmp/my_first_directory/: Create a script that creates a directory named my_first_directory in the /tmp/ directory
+6. mkdir /tmp/my_first_directory/: Create a script that creates a directory named my_first_directory in the /tmp/ directory
+7. mv /tmp/betty /tmp/my_first_directory: Move the file betty from /tmp/ to /tmp/my_first_directory
