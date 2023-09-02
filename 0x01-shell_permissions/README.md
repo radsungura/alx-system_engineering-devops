@@ -12,4 +12,6 @@ Group: no permission at all
 Other users: all the permissions
 9. chmod 753 hello : sets the mode of the file hello to: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 10. chmod --reference=olleh hello : sets the mode of the file hello the same as olleh’s mode
+11. chmod a+X * : adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+Regular files should not be changed
 
