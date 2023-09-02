@@ -16,4 +16,5 @@ Other users: all the permissions
 Regular files should not be changed
 12. mkdir -m 751 my_dir : creates a directory called my_dir with permissions 751 in the working directory.
 13. chgrp school hello : changes the group owner to school for the file hello
+100. chown vincent:staff * : changes the owner to vincent and the group owner to staff for all the files and directories in the working directory 
 
