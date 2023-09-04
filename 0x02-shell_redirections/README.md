@@ -20,4 +20,5 @@
 20. tr -d 'c' | tr -d 'C' : Create a script that removes all letters c and C from input.
 21. rev : Write a script that reverse its input.
 22. cut -d : -f 1,6 /etc/passwd | sort : Write a script that displays all users and their home directories, sorted by users.
+100. find -empty | rev | cut -d'/' -f1 | rev : Write a command that finds all empty files and directories in the current directory and all sub-directories
 
