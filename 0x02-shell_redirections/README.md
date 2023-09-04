@@ -8,3 +8,4 @@
 7. echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)" :  creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 8. ls -la > ls_cwd_content :  writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
 9.  tail -1 <iacta>>iacta : duplicates the last line of the file iacta
+10. find -name "*.js" -type f -delete : deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
