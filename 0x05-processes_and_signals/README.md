@@ -4,3 +4,4 @@
 2. Show your Bash PID
 3. Show your Bash PID made easy
 4. displays To infinity and beyond indefinitely.
+5. Bash script that stops a process
