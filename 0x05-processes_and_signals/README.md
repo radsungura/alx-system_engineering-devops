@@ -6,3 +6,5 @@
 4. displays To infinity and beyond indefinitely.
 5. Bash script that stops a process
 6. To infinity and beyond indefinitely
+7. Highlander
+8. Beheaded process
