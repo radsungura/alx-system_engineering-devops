@@ -14,5 +14,5 @@ do
     echo "$minute"
     (( minute++ ))
   done
-  ((i hour++ ))
+  (( hour++ ))
 done
