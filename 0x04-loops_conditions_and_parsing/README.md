@@ -15,3 +15,4 @@
  	- In a list format
 	- Where only the part of the name after the first dash is 
 	displayed (refer to the example)
+9. Bash script that gives you information about the school file
