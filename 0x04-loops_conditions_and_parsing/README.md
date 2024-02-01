@@ -17,3 +17,7 @@
 	displayed (refer to the example)
 9. Bash script that gives you information about the school file
 10. Bash script that displays numbers from 1 to 100 with exceptions and conditions
+11. Read and cut: Bash script that displays the content of the file /etc/passwd.
+12. Bash script that displays the content of the file /etc/passwd, using the while loop + IFS.
+13. Bash script that displays the visitor IP along with the HTTP status code from the Apache log file.
+14. Bash script that groups visitors by IP and HTTP status code, and displays this data.
