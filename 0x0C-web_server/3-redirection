@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # Installs, configures, and starts the server
+
 apt-get update
 apt-get -y install nginx
 sudo ufw allow 'Nginx HTTP'
@@ -17,7 +18,7 @@ SERVER_CONFIG=\
 		try_files \$uri \$uri/ =404;
 	}
 	if (\$request_filename ~ redirect_me){
-	rewrite 301 https://www.youtube.com/watch?v=XSlDFZffer4 permenent;
+	return 301 https://github.com/radsungura;
 	}
 }"
 
