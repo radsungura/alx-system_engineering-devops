@@ -1,6 +1,3 @@
-#0x16. API advanced
+# 0x16. API advanced
 
-0. How many subs?
-1. Top Ten
-2. Recurse it!
-100. Count it!
+0. Write a function that queries the Reddit API and returns the number of subscribers
